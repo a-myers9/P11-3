@@ -1,6 +1,6 @@
 // ExamScores.cpp - Anna Myers - November 8, 2026
 // Description: Reads up to 20 exam scores into an array then 
-// displays the highest score, lowest score, and class average
+// displays the highest score, lowest score, and class average.
 
 #include <iostream>
 #include<iomanip>
